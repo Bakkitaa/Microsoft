@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Paracetamol",
+    "principioActivo": "Paracetamol",
+    "ventaLibre": true,
+    "indicaciones": "Fiebre y dolor leve.",
+    "riesgos": "Toxicidad hepática en dosis altas.",
+    "imagenUrl": "/img/paracetamol.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Ibuprofeno",
+    "principioActivo": "Ibuprofeno",
+    "ventaLibre": true,
+    "indicaciones": "Inflamación y dolor moderado.",
+    "riesgos": "Irritación gástrica.",
+    "imagenUrl": "/img/ibuprofeno.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Amoxicilina",
+    "principioActivo": "Amoxicilina",
+    "ventaLibre": false,
+    "indicaciones": "Infecciones bacterianas.",
+    "riesgos": "Alergias severas en personas sensibles.",
+    "imagenUrl": "https://placehold.co/150?text=Antibiotico"
+  }
+]
