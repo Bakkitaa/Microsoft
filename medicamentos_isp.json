@@ -6,7 +6,7 @@
     "ventaLibre": true,
     "indicaciones": "Fiebre y dolor leve.",
     "riesgos": "Toxicidad hepática en dosis altas.",
-    "imagenUrl": "https://www.google.com/imgres?q=paracetamol&imgurl=https%3A%2F%2Fwww.laboratoriochile.cl%2Fwp-content%2Fwebp-express%2Fwebp-images%2Fdoc-root%2Fwp-content%2Fuploads%2F2015%2F11%2FParacetamol_500MG_16C_BE_HD.jpg.webp&imgrefurl=https%3A%2F%2Fwww.laboratoriochile.cl%2Fproducto%2Fparacetamol-500-mg%2F&docid=-yC2xClYvrLbDM&tbnid=--AEPyO8iUhUKM&vet=12ahUKEwiAzL7rv8aTAxUSlZUCHTvIDOQQnPAOegQIFhAB..i&w=1279&h=725&hcb=2&ved=2ahUKEwiAzL7rv8aTAxUSlZUCHTvIDOQQnPAOegQIFhAB"
+    "imagenUrl": "https://www.laboratoriochile.cl/wp-content/uploads/2015/11/Paracetamol_500MG_16C_BE_HD.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "ventaLibre": true,
     "indicaciones": "Inflamación y dolor moderado.",
     "riesgos": "Irritación gástrica.",
-    "imagenUrl": "https://www.google.com/imgres?q=ibuprofeno&imgurl=https%3A%2F%2Ffarmaciasdeldrsimicl.vtexassets.com%2Farquivos%2Fids%2F159826%2FBE0022-1V1.jpg%3Fv%3D638953557759730000&imgrefurl=https%3A%2F%2Fwww.drsimi.cl%2Fibuprofeno-400-mg-20-comprimidos-recubiertos%2Fp%3Fsrsltid%3DAfmBOorOUUkcllPpXjkBKxqOvqV0d5YR2hvHBC4Qu67ysfVe7NA1G9Tp&docid=HDqaA3KLoLtVCM&tbnid=2LHmCEjLSA8_fM&vet=12ahUKEwi9jqv5v8aTAxU3upUCHTWpIvAQnPAOegQIHhAB..i&w=1200&h=1200&hcb=2&ved=2ahUKEwi9jqv5v8aTAxU3upUCHTWpIvAQnPAOegQIHhAB"
+    "imagenUrl": "https://farmaciasdeldrsimicl.vtexassets.com/arquivos/ids/159826/BE0022-1V1.jpg"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "ventaLibre": false,
     "indicaciones": "Infecciones bacterianas.",
     "riesgos": "Alergias severas.",
-    "imagenUrl": "https://www.google.com/imgres?q=amoxicilina&imgurl=https%3A%2F%2Fbeta.cruzverde.cl%2Fon%2Fdemandware.static%2F-%2FSites-masterCatalog_Chile%2Fdefault%2Fdwb3d7b391%2Fimages%2Flarge%2F296838.1.jpg&imgrefurl=https%3A%2F%2Fwww.cruzverde.cl%2Famoxicilina-500-mg-21-capsulas%2F296838.html&docid=h1deh1hDqf8pbM&tbnid=WV0DR5I4KZXgtM&vet=12ahUKEwjS1rmGwMaTAxWMlJUCHQHQG_kQnPAOegQIFRAB..i&w=1000&h=1000&hcb=2&ved=2ahUKEwjS1rmGwMaTAxWMlJUCHQHQG_kQnPAOegQIFRAB"
+    "imagenUrl": "https://beta.cruzverde.cl/on/demandware.static/-/Sites-masterCatalog_Chile/default/dwb3d7b391/images/large/296838.1.jpg"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "ventaLibre": true,
     "indicaciones": "Alergias y rinitis.",
     "riesgos": "Somnolencia en algunos casos.",
-    "imagenUrl": "https://www.google.com/imgres?q=loratadina&imgurl=https%3A%2F%2Fwww.laboratoriochile.cl%2Fwp-content%2Fwebp-express%2Fwebp-images%2Fdoc-root%2Fwp-content%2Fuploads%2F2015%2F11%2FLoratadina_10MG_10C_BE_HD.jpg.webp&imgrefurl=https%3A%2F%2Fwww.laboratoriochile.cl%2Fproducto%2Floratadina-10-mg%2F&docid=9s8n7Xo1mN8jDM&tbnid=Zt6lHqkKzj0eZM&vet=12ahUKEwjh9sXGwMaTAxW7lJUCHQHQG_kQnPAOegQIFRAB..i&w=1279&h=725&hcb=2&ved=2ahUKEwjh9sXGwMaTAxW7lJUCHQHQG_kQnPAOegQIFRAB"
+    "imagenUrl": "https://www.laboratoriochile.cl/wp-content/uploads/2015/11/Loratadina_10MG_10C_BE_HD.jpg"
   },
   {
     "id": 5,
@@ -42,6 +42,6 @@
     "ventaLibre": false,
     "indicaciones": "Diabetes tipo 2.",
     "riesgos": "Acidosis láctica en casos raros.",
-    "imagenUrl": "https://www.google.com/imgres?q=metformina&imgurl=https%3A%2F%2Fwww.laboratoriochile.cl%2Fwp-content%2Fwebp-express%2Fwebp-images%2Fdoc-root%2Fwp-content%2Fuploads%2F2015%2F11%2FMetformina_850MG_30C_BE_HD.jpg.webp&imgrefurl=https%3A%2F%2Fwww.laboratoriochile.cl%2Fproducto%2Fmetformina-850-mg%2F&docid=9s8n7Xo1mN8jDM&tbnid=Zt6lHqkKzj0eZM&vet=12ahUKEwjh9sXGwMaTAxW7lJUCHQHQG_kQnPAOegQIFRAB..i&w=1279&h=725&hcb=2&ved=2ahUKEwjh9sXGwMaTAxW7lJUCHQHQG_kQnPAOegQIFRAB"
-  } 
-] 
+    "imagenUrl": "https://www.laboratoriochile.cl/wp-content/uploads/2015/11/Metformina_850MG_30C_BE_HD.jpg"
+  }
+]
