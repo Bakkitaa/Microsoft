@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "nombre": "Paracetamol",
+    "nombre": "Paracetamol (GitHub ✅)",
     "principioActivo": "Paracetamol",
     "ventaLibre": true,
     "indicaciones": "Fiebre y dolor leve.",
     "riesgos": "Toxicidad hepática en dosis altas.",
-    "imagenUrl": "/img/paracetamol.jpg"
+    "imagenUrl": "https://www.cruzverde.cl/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_Chile/default/dw123456/images/large/262522-paracetamol-500-mg-16-comprimidos.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "ventaLibre": true,
     "indicaciones": "Inflamación y dolor moderado.",
     "riesgos": "Irritación gástrica.",
-    "imagenUrl": "/img/ibuprofeno.jpg"
+    "imagenUrl": "https://magneto.cl/wp-content/uploads/2021/05/Ibuprofeno-600mg-20-comprimidos.jpg"
   },
   {
     "id": 3,
@@ -23,7 +23,7 @@
     "principioActivo": "Amoxicilina",
     "ventaLibre": false,
     "indicaciones": "Infecciones bacterianas.",
-    "riesgos": "Alergias severas en personas sensibles.",
-    "imagenUrl": "https://placehold.co/150?text=Antibiotico"
+    "riesgos": "Alergias severas.",
+    "imagenUrl": "https://www.farmaciasahumada.cl/dw/image/v2/BJXN_PRD/on/demandware.static/-/Sites-fasa-master-catalog/default/dw987654/images/789123.jpg"
   }
 ]
