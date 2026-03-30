@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nombre": "Paracetamol (GitHub ✅)",
+    "nombre": "Paracetamol 500mg",
     "principioActivo": "Paracetamol",
     "ventaLibre": true,
     "indicaciones": "Fiebre y dolor leve.",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "nombre": "Ibuprofeno",
+    "nombre": "Ibuprofeno 400mg",
     "principioActivo": "Ibuprofeno",
     "ventaLibre": true,
     "indicaciones": "Inflamación y dolor moderado.",
@@ -19,11 +19,29 @@
   },
   {
     "id": 3,
-    "nombre": "Amoxicilina",
+    "nombre": "Amoxicilina 500mg",
     "principioActivo": "Amoxicilina",
     "ventaLibre": false,
     "indicaciones": "Infecciones bacterianas.",
     "riesgos": "Alergias severas.",
     "imagenUrl": "https://www.google.com/imgres?q=amoxicilina&imgurl=https%3A%2F%2Fbeta.cruzverde.cl%2Fon%2Fdemandware.static%2F-%2FSites-masterCatalog_Chile%2Fdefault%2Fdwb3d7b391%2Fimages%2Flarge%2F296838.1.jpg&imgrefurl=https%3A%2F%2Fwww.cruzverde.cl%2Famoxicilina-500-mg-21-capsulas%2F296838.html&docid=h1deh1hDqf8pbM&tbnid=WV0DR5I4KZXgtM&vet=12ahUKEwjS1rmGwMaTAxWMlJUCHQHQG_kQnPAOegQIFRAB..i&w=1000&h=1000&hcb=2&ved=2ahUKEwjS1rmGwMaTAxWMlJUCHQHQG_kQnPAOegQIFRAB"
-  }
-]
+  },
+  {
+    "id": 4,
+    "nombre": "Loratadina 10mg",
+    "principioActivo": "Loratadina",
+    "ventaLibre": true,
+    "indicaciones": "Alergias y rinitis.",
+    "riesgos": "Somnolencia en algunos casos.",
+    "imagenUrl": "https://www.google.com/imgres?q=loratadina&imgurl=https%3A%2F%2Fwww.laboratoriochile.cl%2Fwp-content%2Fwebp-express%2Fwebp-images%2Fdoc-root%2Fwp-content%2Fuploads%2F2015%2F11%2FLoratadina_10MG_10C_BE_HD.jpg.webp&imgrefurl=https%3A%2F%2Fwww.laboratoriochile.cl%2Fproducto%2Floratadina-10-mg%2F&docid=9s8n7Xo1mN8jDM&tbnid=Zt6lHqkKzj0eZM&vet=12ahUKEwjh9sXGwMaTAxW7lJUCHQHQG_kQnPAOegQIFRAB..i&w=1279&h=725&hcb=2&ved=2ahUKEwjh9sXGwMaTAxW7lJUCHQHQG_kQnPAOegQIFRAB"
+  },
+  {
+    "id": 5,
+    "nombre": "Metformina 850mg",
+    "principioActivo": "Metformina",
+    "ventaLibre": false,
+    "indicaciones": "Diabetes tipo 2.",
+    "riesgos": "Acidosis láctica en casos raros.",
+    "imagenUrl": "https://www.google.com/imgres?q=metformina&imgurl=https%3A%2F%2Fwww.laboratoriochile.cl%2Fwp-content%2Fwebp-express%2Fwebp-images%2Fdoc-root%2Fwp-content%2Fuploads%2F2015%2F11%2FMetformina_850MG_30C_BE_HD.jpg.webp&imgrefurl=https%3A%2F%2Fwww.laboratoriochile.cl%2Fproducto%2Fmetformina-850-mg%2F&docid=9s8n7Xo1mN8jDM&tbnid=Zt6lHqkKzj0eZM&vet=12ahUKEwjh9sXGwMaTAxW7lJUCHQHQG_kQnPAOegQIFRAB..i&w=1279&h=725&hcb=2&ved=2ahUKEwjh9sXGwMaTAxW7lJUCHQHQG_kQnPAOegQIFRAB"
+  } 
+] 
